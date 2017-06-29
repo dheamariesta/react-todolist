@@ -1,0 +1,12 @@
+
+
+.row.create{
+  position: absolute;
+  bottom: 20px;
+  width: 90%;
+  margin: 0 auto;
+}
+
+.btn.btn-primary{
+  width: 100%;
+}
